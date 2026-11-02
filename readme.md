@@ -1,0 +1,2 @@
+<h1> Reflection </h>
+<h2> Learning how to commit and merge will be a lessons learned for me. I need to learn how to add header and footer into the bodies tab. I was havint issues making an conflict, thanks to Bryans help he taught me that my merging conflicts need to be on the same row (i.e both conflicts need to be on row 12). With more time and practice, I will understand this much better. I need to learn how to shut down my product development brain and switch to a logistics side as product development and software development are two different aesthetics. 
